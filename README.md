@@ -2,7 +2,7 @@
 
 I'm Justin, a wine nerd and web developer.
 
-- 🔭 I’m currently working on [bottlesDB] (https://bottles-db-mern.herokuapp.com/)
+- 🔭 I’m currently working on [bottlesDB](https://bottles-db-mern.herokuapp.com/)
 
 
 <!--
